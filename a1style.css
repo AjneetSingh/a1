@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+nav {
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	color:greenyellow;
+    background-color:yellow;
+	font-size:20px;
+		
+}
+
+h1 {
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	Color:Green;
+	Font-size:35px;
+	
+	
+}
+
+h2 {
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	Color:Green;
+	Font-size:35px;
+}
+
+p {font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+   Color:Red;
+   Font-size:18px;
+   
+	
+}
